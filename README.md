@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kathir
-- 👀 I’m interested in medical imaging, medical computer vision, AI in medicine,..pretty much everything that is related to medical imaging technology:)
+- 👋 Hi, I’m Kathiresan Chandrasekaran, master's student in Biomedical Engineering and Medical Physics at the Technical University of Munich.
+- 👀 I’m extremely interested in medical imaging, medical computer vision, AI in medicine,..pretty much everything that is related to medical imaging technology:)
 - 💞️ I’m looking to collaborate on a project that uses AI for the betterment of medical imaging 
 - 📫 How to reach me at linkedin.com/in/kathiresan-chandrasekaran-baa622148
 
